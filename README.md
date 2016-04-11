@@ -59,10 +59,11 @@ Saurabh-Code has been update for Gallery provided by Saurabh. Uploadled java.zip
 
 
 
-Siddhant - Successfully build and android app on my part as Gallery app is being created by Saurabh(Team member)
+Siddhant -Used helloWorld App given on Myo.com  to study connections and libraries on my part as Gallery app is being created by Saurabh(Team member)
 MyDemo app successfully concects MyoControl with my android phone and is able to read gestures on the app.
 (Will show it in class to Professor on 4/11.2016)
-Will upload the code on github soon of MyoDemo
+Will upload the code on github soon of MyoDemo (As code is borrowed from Myo.com no point uploading it)
+
 
 
 
