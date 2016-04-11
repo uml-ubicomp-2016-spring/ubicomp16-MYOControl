@@ -50,8 +50,12 @@ Siddhant - was able to succesfully connect myo with MYO Music App to control Spo
 
 Myo Music App is provided by Thalmic Apps on their website, 
 Installed this App to Familiarize myself with Myo connection with Android app
-and the interface (as uptil now had used Myo to connect with desktop applications only)
+and the interface (as uptil now had used Myo to connect with desktop applications only).
 
+Siddhant - Successfully build and android app on my part as Gallery app is being created by Saurabh(Team member)
+MyDemo app successfully concects MyoControl with my android phone and is able to read gestures on the app.
+(Will show it in class to Professor on 4/11.2016)
+Will upload the code on github soon of MyoDemo
 
 
 
