@@ -55,7 +55,7 @@ and the interface (as uptil now had used Myo to connect with desktop application
 
 Week Progress Report : 4/4 to  4/11
 
-Saurabh-Code has been update for Gallery provided by Saurabh
+Saurabh-Code has been update for Gallery provided by Saurabh. Uploadled java.zip havin 4 jave files- ImageAdapter.java, MainActivity.java,MovingUnit.java and MovingView.java
 
 
 
