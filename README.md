@@ -43,6 +43,7 @@ a) Building an android photo gallery app - to be completed by Saurabh Bindal
 b) Use the Myo given by professor to control the functionality of Photo Gallery App - to be completed by Siddhant Jaiswal
 
 
+
 Saurabh-Code has been update for Gallery provided by Saurabh.
 
 
@@ -51,6 +52,12 @@ Siddhant - was able to succesfully connect myo with MYO Music App to control Spo
 Myo Music App is provided by Thalmic Apps on their website, 
 Installed this App to Familiarize myself with Myo connection with Android app
 and the interface (as uptil now had used Myo to connect with desktop applications only).
+
+Week Progress Report : 4/4 to  4/11
+
+Saurabh-Code has been update for Gallery provided by Saurabh
+
+
 
 Siddhant - Successfully build and android app on my part as Gallery app is being created by Saurabh(Team member)
 MyDemo app successfully concects MyoControl with my android phone and is able to read gestures on the app.
