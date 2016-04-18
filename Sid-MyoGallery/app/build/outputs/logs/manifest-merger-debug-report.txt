@@ -1,0 +1,127 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Sid-MyoGallery\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from E:\Sid-MyoGallery\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from E:\Sid-MyoGallery\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Sid-MyoGallery\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Sid-MyoGallery\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\Sid-MyoGallery\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Sid-MyoGallery\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\Sid-MyoGallery\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\Sid-MyoGallery\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Sid-MyoGallery\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Sid-MyoGallery\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from E:\Sid-MyoGallery\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:23.2.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.2.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:23.2.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.2.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.2.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.2.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.2.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.2.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.2.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.android.support\design\23.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.2.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.2.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.2.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:23.2.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.2.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.2.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.2.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.2.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.2.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.2.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.thalmic:myosdk:0.10.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.thalmic\myosdk\0.10.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.2.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.2.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from E:\Sid-MyoGallery\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\Sid-MyoGallery\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Sid-MyoGallery\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\Sid-MyoGallery\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from E:\Sid-MyoGallery\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Sid-MyoGallery\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\Sid-MyoGallery\app\src\main\AndroidManifest.xml:11:5-28:19
+MERGED from [com.android.support:support-v4:23.2.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.2.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:23.2.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.2.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.2.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.2.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.android.support\design\23.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.2.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:23.2.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.2.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.2.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.thalmic:myosdk:0.10.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.thalmic\myosdk\0.10.0\AndroidManifest.xml:15:5-20:19
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.2.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from E:\Sid-MyoGallery\app\src\main\AndroidManifest.xml:11:114-148
+	android:allowBackup
+		ADDED from E:\Sid-MyoGallery\app\src\main\AndroidManifest.xml:11:18-44
+	android:icon
+		ADDED from E:\Sid-MyoGallery\app\src\main\AndroidManifest.xml:11:77-113
+	android:theme
+		ADDED from E:\Sid-MyoGallery\app\src\main\AndroidManifest.xml:11:45-76
+activity#com.example.picturegallery.MainActivity
+ADDED from E:\Sid-MyoGallery\app\src\main\AndroidManifest.xml:14:9-22:20
+	android:label
+		ADDED from E:\Sid-MyoGallery\app\src\main\AndroidManifest.xml:16:13-47
+	android:name
+		ADDED from E:\Sid-MyoGallery\app\src\main\AndroidManifest.xml:15:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Sid-MyoGallery\app\src\main\AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from E:\Sid-MyoGallery\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from E:\Sid-MyoGallery\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Sid-MyoGallery\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from E:\Sid-MyoGallery\app\src\main\AndroidManifest.xml:20:27-74
+meta-data#com.google.android.gms.version
+ADDED from E:\Sid-MyoGallery\app\src\main\AndroidManifest.xml:25:9-27:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from E:\Sid-MyoGallery\app\src\main\AndroidManifest.xml:27:13-66
+	android:name
+		ADDED from E:\Sid-MyoGallery\app\src\main\AndroidManifest.xml:26:13-58
+uses-permission#android.permission.BLUETOOTH
+ADDED from [com.thalmic:myosdk:0.10.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.thalmic\myosdk\0.10.0\AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from [com.thalmic:myosdk:0.10.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.thalmic\myosdk\0.10.0\AndroidManifest.xml:11:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [com.thalmic:myosdk:0.10.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.thalmic\myosdk\0.10.0\AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from [com.thalmic:myosdk:0.10.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.thalmic\myosdk\0.10.0\AndroidManifest.xml:12:22-71
+uses-permission#android.permission.INTERNET
+ADDED from [com.thalmic:myosdk:0.10.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.thalmic\myosdk\0.10.0\AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from [com.thalmic:myosdk:0.10.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.thalmic\myosdk\0.10.0\AndroidManifest.xml:13:22-64
+activity#com.thalmic.myo.scanner.ScanActivity
+ADDED from [com.thalmic:myosdk:0.10.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.thalmic\myosdk\0.10.0\AndroidManifest.xml:16:9-19:64
+	android:label
+		ADDED from [com.thalmic:myosdk:0.10.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.thalmic\myosdk\0.10.0\AndroidManifest.xml:18:13-64
+	android:theme
+		ADDED from [com.thalmic:myosdk:0.10.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.thalmic\myosdk\0.10.0\AndroidManifest.xml:19:13-61
+	android:name
+		ADDED from [com.thalmic:myosdk:0.10.0] E:\Sid-MyoGallery\app\build\intermediates\exploded-aar\com.thalmic\myosdk\0.10.0\AndroidManifest.xml:17:13-64

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Siddhant Jaiswal\\Desktop\\Sid-MyoGallery\\app\\build\\intermediates\\res\\merged\\debug\\menu\\myosdk__fragment_scan.xml",
+        "source": "C:\\Users\\Siddhant Jaiswal\\Desktop\\Sid-MyoGallery\\app\\build\\intermediates\\exploded-aar\\com.thalmic\\myosdk\\0.10.0\\res\\menu\\myosdk__fragment_scan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhant Jaiswal\\Desktop\\Sid-MyoGallery\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_dash_board.xml",
+        "source": "C:\\Users\\Siddhant Jaiswal\\Desktop\\Sid-MyoGallery\\app\\src\\main\\res\\menu\\menu_dash_board.xml"
+    },
+    {
+        "merged": "E:\\Sid-MyoGallery\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_dash_board.xml",
+        "source": "E:\\Sid-MyoGallery\\app\\src\\main\\res\\menu\\menu_dash_board.xml"
+    },
+    {
+        "merged": "E:\\Sid-MyoGallery\\app\\build\\intermediates\\res\\merged\\debug\\menu\\myosdk__fragment_scan.xml",
+        "source": "E:\\Sid-MyoGallery\\app\\build\\intermediates\\exploded-aar\\com.thalmic\\myosdk\\0.10.0\\res\\menu\\myosdk__fragment_scan.xml"
+    }
+]

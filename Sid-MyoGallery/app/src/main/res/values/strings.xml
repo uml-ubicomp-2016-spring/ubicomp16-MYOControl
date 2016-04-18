@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UbiquitousProject</string>
+    <string name="hello_world">Picture Gallery</string>
+    <string name="action_settings">Settings</string>
+</resources>
