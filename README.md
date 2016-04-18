@@ -65,6 +65,20 @@ MyDemo app successfully concects MyoControl with my android phone and is able to
 Will upload the code on github soon of MyoDemo (As code is borrowed from Myo.com no point uploading it)
 
 
+Week Progress Report : 4/11 to 4/18
 
+Siddhant - Was successfully able to use the code provided by Team member Saurabh Bindal (Compiled in Eclipse) in Android Studio.
+Gallery App on Android has been connected with MYO. Currently the app is able to select images by gesturing left and right wave motion on MYO and selecting the appropriate Image by holding the fist gesture (Also have kept the code to see which gesture user is currently holding).
+Work remaining is to somehow integrate the zoom fucntionality on a gesture from MYO , so that user is able to select the image and Zoom it too all using MYO.. 
 
+The current code updated is under folder SID-MYO Gallery .. It is compiled code which successfullly generates an APK on mobile when used with usb debugging and run on Android Studio. Code does not run on Android Studio (AVD manager) Emulator as it requires Bluetooth connection which is not there on Emulator ..
 
+References used till now to Compile the Code & understand Myo Working :
+
+1)https://pathofacoder.com/2016/03/18/lets-write-code-for-myo-armband-android/
+
+2) https://developer.thalmic.com/start/
+
+3) https://developer.thalmic.com/docs/api_reference/android/_hello_world_activity_8java-example.html
+
+Along with various other YouTube videos, StackOverflow to learn Android and Gallery App functionality
