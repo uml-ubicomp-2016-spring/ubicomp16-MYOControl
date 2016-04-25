@@ -67,6 +67,7 @@ Will upload the code on github soon of MyoDemo (As code is borrowed from Myo.com
 
 Week Progress Report : 4/11 to 4/18
 
+
 Siddhant - Was successfully able to use the code provided by Team member Saurabh Bindal (Compiled in Eclipse) in Android Studio.
 Gallery App on Android has been connected with MYO. Currently the app is able to select images by gesturing left and right wave motion on MYO and selecting the appropriate Image by holding the fist gesture (Also have kept the code to see which gesture user is currently holding).
 Work remaining is to somehow integrate the zoom fucntionality on a gesture from MYO , so that user is able to select the image and Zoom it too all using MYO.. 
@@ -84,7 +85,7 @@ References used till now to Compile the Code & understand Myo Working :
 Along with various other YouTube videos, StackOverflow to learn Android and Gallery App functionality
 
 
-Week Progress Report : 4/19 to 4/15
+Week Progress Report : 4/19 to 4/25
 
 Siddhant - Looked at various methods, approaches (codes) to implement Zoom functionality in the Gallery App.
 Found Android Gallery functionality code which had required zoom functionality along with other features not required for our project.
@@ -93,4 +94,6 @@ Also to reset the Set zoom using close fist gesture which is a recognized gestur
 
 Looked at ways to change the android Icon launcher and have changed the App logo from simple Android Logo to UML Riverhawk logo for screen with various densiities ...
 
-Current code is updated along with the zoom functionality and icon change on Github and is named Sid-Myo Gallery 2.0
+Current code is updated along with the zoom functionality and icon change on Github and is named Sid-Myo Gallery 2.0.
+
+Saurabh: Worked on inputs provided by SIddhant while integrating  myo feature pointed towards some updates in movingview.java and movingunit.java file.
