@@ -82,3 +82,15 @@ References used till now to Compile the Code & understand Myo Working :
 3) https://developer.thalmic.com/docs/api_reference/android/_hello_world_activity_8java-example.html
 
 Along with various other YouTube videos, StackOverflow to learn Android and Gallery App functionality
+
+
+Week Progress Report : 4/19 to 4/15
+
+Siddhant - Looked at various methods, approaches (codes) to implement Zoom functionality in the Gallery App.
+Found Android Gallery functionality code which had required zoom functionality along with other features not required for our project.
+Tried many times and was able to successfully implement zoom and sync it with Myo Spread Finger Gesture ..
+Also to reset the Set zoom using close fist gesture which is a recognized gesture by MYO.
+
+Looked at ways to change the android Icon launcher and have changed the App logo from simple Android Logo to UML Riverhawk logo for screen with various densiities ...
+
+Current code is updated along with the zoom functionality and icon change on Github and is named Sid-Myo Gallery 2.0
