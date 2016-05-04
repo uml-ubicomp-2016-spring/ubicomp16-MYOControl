@@ -97,3 +97,8 @@ Looked at ways to change the android Icon launcher and have changed the App logo
 Current code is updated along with the zoom functionality and icon change on Github and is named Sid-Myo Gallery 2.0.
 
 Saurabh: Worked on inputs provided by SIddhant while integrating  myo feature pointed towards some updates in movingview.java and movingunit.java file.
+
+Week Progress Report : 4/26 to 5/2
+
+Siddhant : Tested MYO, for trial use gave it to 5 of my friends and asked them to use it, took their feedback on the app and Myo arm Controller. Found paper published on MYO undersood the scope of their discussion .
+Created the Project Report .
