@@ -102,3 +102,6 @@ Week Progress Report : 4/26 to 5/2
 
 Siddhant : Tested MYO, for trial use gave it to 5 of my friends and asked them to use it, took their feedback on the app and Myo arm Controller. Found paper published on MYO undersood the scope of their discussion .
 Created the Project Report .
+
+Siddhant : I just checked some of the changes were not committed to the repo earlier . so updates are not linear (according to time) in Github.
+But the final / latest code is under folder Sid-MyoGallery 2.0
